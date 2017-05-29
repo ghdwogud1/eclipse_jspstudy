@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <%
 	String var2="JSP";
 %>
@@ -20,5 +21,6 @@
 수식계산3: <%=(3+5)%> 
 수식계산4: <%=(6/2)%>
 수식계산2:<%=(3*5)%>
+
 </body>
 </html>
