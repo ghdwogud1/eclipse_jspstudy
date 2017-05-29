@@ -1,5 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -14,11 +14,11 @@
 	String var1=var2+"Web Programming";
 %>
 
-Ãâ·ÂÇÒ°ª: <%=var1%><br>
-¼ö½Ä°è»ê: <%=(3+5)%>
+ì¶œë ¥í• ê°’: <%=var1%><br>
+ìˆ˜ì‹ê³„ì‚°: <%=(3+5)%>
 <hr>
-¼ö½Ä°è»ê3: <%=(3+5)%> 
-¼ö½Ä°è»ê4: <%=(6/2)%>
-¼ö½Ä°è»ê2:<%=(3*5)%>
+ìˆ˜ì‹ê³„ì‚°3: <%=(3+5)%> 
+ìˆ˜ì‹ê³„ì‚°4: <%=(6/2)%>
+ìˆ˜ì‹ê³„ì‚°2:<%=(3*5)%>
 </body>
 </html>
